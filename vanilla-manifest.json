@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "base": "https://raw.githubusercontent.com/0wv/tweek-releases/master/vanilla-audio/",
+  "files": [
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "ambience.awc",
+      "size": 4503900,
+      "sha256": "45f169e1540b1c9558d18413691acc4ba0b7fce895d9211e866ec434a47dff40"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "animals_footsteps.awc",
+      "size": 1365200,
+      "sha256": "6094dd6a5e45287abdeae8b938e196fd54365157ee58c282f8d3b3a080e0bec9"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "collision.awc",
+      "size": 17635320,
+      "sha256": "940977e6fab379f08271a024d3b1c141b344e38964e2b0f9b93278917957c0c7"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "collisions.awc",
+      "size": 9001844,
+      "sha256": "85dad32502a05548b6f3f75a8fd9bbe97e41f4a0d20bf1259e97ca5c078f85bb"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "doors.awc",
+      "size": 1143248,
+      "sha256": "27a834edb2f3d5276ab14de8028fd538efe9e9b1569d022a204f6bc6553f1d87"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "explosions.awc",
+      "size": 19805816,
+      "sha256": "a7e2caa23bb5628971b5686a23be52408c567e77d06bf11f0d855b7c4aac7f58"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "feet_materials.awc",
+      "size": 7251360,
+      "sha256": "ee69b7fa02693b9bd36a59018a1a0447fb419c8ad730823b4458635c0a14611e"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "feet_resident.awc",
+      "size": 1159136,
+      "sha256": "7f9d975b1a2a7b70dd0f929444f6c4ad6f00d128b13a0edb6d1ec333de7af866"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "frontend.awc",
+      "size": 6060128,
+      "sha256": "b63bd50174b1ab4cc6a90df009f08f94aa92cdd5847e84c9844f57f71a70c802"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "low_latency.awc",
+      "size": 15496,
+      "sha256": "4fca4fc7d5d4679808e3ebf29cbfd506a9f7f5709980b4bd487a3a7d55e5910a"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "melee.awc",
+      "size": 1784684,
+      "sha256": "24fb566c2be9e224edb5bc8a3f4b2ec4266c41bfe86d02ce4f6dc88a2f2fcc8c"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "movement.awc",
+      "size": 2616864,
+      "sha256": "7c0c865576fd8a686f08e882da7df342df659250bc167ed637dfcdf60f6f35ba"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "player_switch.awc",
+      "size": 371636,
+      "sha256": "adbf787f90ac61d79593ee8fe4ba4453eb166f3c20f84ca85f5c682084ab477c"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "vehicles.awc",
+      "size": 16519400,
+      "sha256": "9006522a35458c749425e875f82b8821c2dd83b87c3acc48ececf2d8aa9f6ed3"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "weapons.awc",
+      "size": 19466072,
+      "sha256": "c39ba0b7848f4b98aa328c7c7a66549b7219911f9c406b7d6dbb588de770802f"
+    },
+    {
+      "rpf": "RESIDENT.rpf",
+      "name": "weather.awc",
+      "size": 4079904,
+      "sha256": "278e16f93b436a3ad63d2284d53072cc26a4e4b020aba3b515d86f7a5d09427d"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "lmg_combat.awc",
+      "size": 55496,
+      "sha256": "cb398c150ad36580af237d2c54b83a8cbaafe863a8b2857cd35cd2ae684eaec4"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "lmg_mg_player.awc",
+      "size": 140960,
+      "sha256": "3d576dee4518975ef9d2f538dccb31afe0813d6cadc090e61b5437eb8eedb273"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "mgn_sml_am83_vera.awc",
+      "size": 359092,
+      "sha256": "d8e89b236bdaea383a0f4862897935ccf2e36332295a162cb13e8d44efa484f9"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "mgn_sml_am83_verb.awc",
+      "size": 243812,
+      "sha256": "5863287ab853b822e39f5955771f4de7bb97c41a3a957223564e144b07080cf9"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "mgn_sml_sc__l.awc",
+      "size": 54256,
+      "sha256": "010bfb2fe6b273abce2676cd9c93b55bfdaa9e82ee45611799e1eddfffa0c901"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "ptl_50cal.awc",
+      "size": 46320,
+      "sha256": "276a7baeb63cde15d0d7f19effe4986aa0683fc9dbb7dc613d6370865275e63f"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "ptl_combat.awc",
+      "size": 56744,
+      "sha256": "684b1d4eafd8e3a9f52c1b0fdcbb5a035d54aaad29806898f36dabbefe4375cc"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "ptl_pistol.awc",
+      "size": 64352,
+      "sha256": "7e8ee32f7f61d943e16f35d6b67aa811f2cc6e489c6d5c67dfa039f261626386"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "ptl_px4.awc",
+      "size": 112636,
+      "sha256": "7f1e6a0c36a1f55d6e404efd98fd83b595ba9ae820fff8793da127143fb97879"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "ptl_rubber.awc",
+      "size": 64504,
+      "sha256": "f807a9a4ada309a65b393ed7df86ea7fa55880c3b426bacb0057ac65eb050629"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "sht_bullpup.awc",
+      "size": 219816,
+      "sha256": "5b14b6b818d3b5f2d8741cab8e373c854f76a6b814beca2017703de2a4f1b3fe"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "sht_pump.awc",
+      "size": 230244,
+      "sha256": "54c7def9f078e051e6024fad5a380a2126c9dc03b6de34ae4a2b618884afc4e2"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "smg_micro.awc",
+      "size": 193048,
+      "sha256": "b94a77ca447d580e97266a5fb9319ecd64206d29d6f120b40a3000b4aab4fbe9"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "smg_smg.awc",
+      "size": 277764,
+      "sha256": "0ee88db47231dbf19680ebdc6f269a631a5cab55dec935061a1f6c63e9a8567e"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "snp_heavy.awc",
+      "size": 43280,
+      "sha256": "91eac2be806579703136176d2d1c0851553c7eee0f6b8778337f5eedecf80eff"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "snp_rifle.awc",
+      "size": 172960,
+      "sha256": "b1605a184d26d2214fd70152047a36270efc7ac141c224fa94857ee12538abe9"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_grenade_player.awc",
+      "size": 125328,
+      "sha256": "c7d9e57c34d9054aa76db7f2229d430f24b47c3955005a5fe5e4f88c552a8d9e"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_minigun_player.awc",
+      "size": 383588,
+      "sha256": "4c2a8708b2787a11c4245670166fa618c1a2e07c9b5987dbf7bd544e11ee8116"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_prog_ar_player.awc",
+      "size": 314896,
+      "sha256": "28194a972e9b3f5c3f838ed189e9c276fce3ff98aa47390472d1de66104f1153"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_railgun.awc",
+      "size": 220160,
+      "sha256": "ad1e06d504e3ce6d8b3b3838184a1c61e960af226f2b84886502604a24bc2fbd"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_rpg_player.awc",
+      "size": 144012,
+      "sha256": "13ab5e9dd899c6db2298a7b44c89ff92254936f02a1660df61e4decbab4ab503"
+    },
+    {
+      "rpf": "WEAPONS_PLAYER.rpf",
+      "name": "spl_tank_player.awc",
+      "size": 353196,
+      "sha256": "40a3223dbf11035b7e1aad5629bb88e09d6c23040018aa27df50ac00b1a0948f"
+    }
+  ]
+}
